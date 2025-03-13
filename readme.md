@@ -4,6 +4,9 @@
 
 Me chamo Gustavo Barreto, tenho 16 anos e sou natural de São Paulo. estou cursando o ensin medio no Sesi, com o curso desenvolvimento de sistema no Senai. Atualmente, estou cursando um curso de JAVA. Sou apaixonado por tecnologia e futebol, minhas especialidades são edição de video, designer de logo e sou intermediario em programação
 
+encontre-me também no instagram:
+## @_gbrt._
+
 <p align="left">
     <
         />
@@ -16,7 +19,7 @@ Me chamo Gustavo Barreto, tenho 16 anos e sou natural de São Paulo. estou cursa
         />
     </a> 
     <   /> </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Gbrt3607?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -47,7 +50,7 @@ Me chamo Gustavo Barreto, tenho 16 anos e sou natural de São Paulo. estou cursa
 />
 <img 
     align="left" 
-    alt="JavaScript" 
+    alt="Java" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
