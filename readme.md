@@ -1,7 +1,7 @@
 <p aling="gbrt">
 <p align="center">
   <a href="https://https://github.com/Gbrt3607">
- Gustavo Barreto
+ Gbrt3607
     ></a>
 </p>
 
