@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://https://github.com/Gbrt3607">
  Gustavo Barreto
-    /></a>
+    ></a>
 </p>
 
 <p align="center">
