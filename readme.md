@@ -1,4 +1,4 @@
-# 👩🏻‍💻Gustavop Barreto
+# 👨🏻‍💻Gustavo Barreto
 
 **`Desenvolvedor de sistema`**
 
