@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de sistema`**
 
-Me chamo Gustavo Barreto, tenho 16 anos e sou natural de São Paulo. estou cursando o ensin medio no Sesi, com o curso desenvolvimento de sistema no Senai. Atualmente, estou cursando um curso de JAVA. Sou apaixonado por tecnologia e futebol, minhas especialidades são edição de video, designer de logo e sou intermediario em programação
+Me chamo Gustavo Barreto, tenho 16 anos e sou natural de São Paulo. estou cursando o ensin medio no Sesi, com o curso desenvolvimento de sistema no Senai. sou programador de Java, html(junto com css e JavaScript) e PhP 
 
 encontre-me também no instagram:
 ## @_gbrt._
